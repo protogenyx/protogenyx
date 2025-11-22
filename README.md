@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&duration=2800&color=4BB4F8&vCenter=true&width=650&lines=Loretta+Krasteva+—+Founder+%26+CEO+of+Ravenyx;Full-Stack+Engineer+%7C+Systems+Architect;Creator+of+Psychology+101">
+# <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&duration=2800&color=4BB4F8&vCenter=true&width=650&lines=Loretta+Krasteva+-+Founder+%26+CEO+of+Ravenyx;Full-Stack+Engineer+%7C+Systems+Architect;Creator+of+Psychology+101">
 
 <p align="center">
   <a href="https://github.com/protogenyx"><img src="https://img.shields.io/badge/GitHub-23292e?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -13,7 +13,7 @@
 
 I am the **Founder & CEO of Ravenyx**, a software innovation studio specializing in **architecture-first engineering**, scalable product ecosystems, and secure modern web technologies.
 
-As the **sole developer behind Psychology 101 — Bulgaria’s largest psychology platform**, I design, build, and operate production-grade systems that focus on:
+As the **sole developer behind Psychology 101 - Bulgaria’s largest psychology platform**, I design, build, and operate production-grade systems that focus on:
 
 * **High performance**
 * **Scalable and modular architecture**
