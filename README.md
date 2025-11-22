@@ -1,143 +1,131 @@
-## Greetings Traveler 👋, I'm Loretta Krasteva!  
-  
+# <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&duration=2800&color=4BB4F8&vCenter=true&width=650&lines=Loretta+Krasteva+—+Founder+%26+CEO+of+Ravenyx;Full-Stack+Engineer+%7C+Systems+Architect;Creator+of+Psychology+101">
 
-<a href="https://github.com/sudo-ditto" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.npmjs.com/~lucky-lore" target="_blank">
-<img src=https://img.shields.io/badge/npm-%2324292e.svg?&style=for-the-badge&logo=npm&logoColor=red alt=npm style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/loretta-krasteva" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/_luckylore" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+<p align="center">
+  <a href="https://github.com/protogenyx"><img src="https://img.shields.io/badge/GitHub-23292e?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.npmjs.com/~lucky-lore"><img src="https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm&logoColor=red"></a>
+  <a href="https://linkedin.com/in/loretta-krasteva"><img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/_luckylore"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p>
 
-<br/>  
+---
 
-### **Delighted to Connect with You!**
-I am a seasoned React Developer with extensive experience in crafting intuitive and visually appealing web interfaces. My passion lies in turning complex designs into accessible, user-friendly digital experiences.
+# 🫡 Profile Summary
 
-<br/>  
+I am the **Founder & CEO of Ravenyx**, a software innovation studio specializing in **architecture-first engineering**, scalable product ecosystems, and secure modern web technologies.
 
-### **Discover More About Me 🌟**
-My journey in tech began at age 6, with an early fascination for computers. This curiosity blossomed into a focused pursuit, leading me to study as a computer technician in high school and later specialize in various programming languages.
+As the **sole developer behind Psychology 101 — Bulgaria’s largest psychology platform**, I design, build, and operate production-grade systems that focus on:
 
-Web development has been my arena for the last few years, perfectly blending my professional career with my personal interests. My path from a hobbyist to a professional in this field exemplifies my commitment and love for technology.
-  
+* **High performance**
+* **Scalable and modular architecture**
+* **Security-first development**
+* **Exceptional UI/UX and accessibility**
+* **Long-term maintainability**
+* **Precise, type-safe boundaries between systems**
 
-<br/>  
+My engineering philosophy blends clean architecture, DX excellence, and strong principles of reliability, clarity, and product impact.
 
-- ❓ Reach out to me via my social links for conversations on technology, holistic wellness, books, fantasy, spirituality, animals, and more!
+---
 
+# 🧠 Core Competencies
 
-- ⚡ Fun facts: I can mimic dog barks perfectly, I collect aesthetically pleasing objects, and I'm honing my skills in video/photo editing.
+## **⚡ Web Technologies & UI Engineering**
 
-<br/>  
+**Next.js** • React (Hooks, Suspense, Portals, Concurrent Rendering, Error Boundaries)
+Ant Design • MUI • TailwindCSS • SASS • Styled Components • Emotion • MDX
+Apache ECharts • Accessibility (WCAG) • Advanced performance tuning (SSR/SSG/ISR)
 
-## **Languages and Tools**  
+---
 
-<table><tr><td valign="top" width="33%">
+## **📦 State Management**
 
+Redux Toolkit • React Query • Zustand • Context API
+Client/server state separation • Cached data layers • API boundary composition
 
+---
 
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
-<img style="margin: 10px" src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" alt="NextJS" height="50" /> 
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
-<a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-<img style="margin: 10px" src="https://v4.material-ui.com/static/logo.png" alt="Material UI" height="50" />  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-</div>
+## **🛠️ Build Systems & Performance**
 
-</td><td valign="top" width="33%">
+Vite • RSBuild • Turborepo • pnpm • Rollup • Webpack
+Code splitting • Bundle analysis • Edge rendering • Large-scale module architecture
 
+---
 
+## **🏗 Architecture & System Design**
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-</div>
+* Microfrontends & modular React ecosystems
+* Monorepos with shared package libraries
+* REBAC with **SpiceDB (Google Zanzibar model)**
+* Clean Architecture & domain-driven modularization
+* Design Systems (Storybook)
+* API communication layers & strict typing standards
 
-</td><td valign="top" width="33%">
+---
 
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-</div>
+## **🧵 Backend & APIs**
 
-</td></tr></table>  
+Node.js • Express.js • Firebase (Auth, Firestore, Functions)
+REST APIs • WebSockets • Serverless Infrastructure
 
-<br/>  
+---
 
+## **🔐 QA, Testing & Security**
 
-## **Support My Journey 🌟**
+Vitest • Jest • RTL • Playwright (E2E)
+BurpSuite (basic) • Postman
+ESLint • Prettier • CI validation & automated code quality workflows
 
-If you appreciate my work and wish to support my endeavors, consider donating:
+---
 
-<div align="center">
+## **⚙️ DevSecOps & Automation**
 
-  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/LoretaKrasteva?locale.x=en_GB)
-</div>
+GitHub Actions • Jenkins • Docker • Hetzner VPS • Cloudflare
+n8n • Vercel • Heroku • Netlify
+Snyk (security audits) • Lighthouse (performance audits)
 
-<div align="center">
-  <a href="(https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lucky.lore" target="_blank" style="display: inline-block;">
-    <img
-        src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-        align="center"
-    />
-  </a>
-</div>
-<br />
+---
 
-Thank you for your support!
+## **🗃 Databases**
 
-<br />
+Firestore • MongoDB • PostgreSQL (basic) • IndexedDB
 
-## **Github Stats**
-<table><tr><td valign="top" width="50%">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=sudo-ditto&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+## **🎨 UX & Product Design**
 
-</td><td valign="top" width="50%">
+Figma • Adobe XD • Photoshop
+Responsive UI • UX & accessibility optimization
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-ditto&hide_border=true&layout=compact" align="left" style="width: 100%" />
+---
 
-</td></tr></table>  
+## **🤝 Collaboration & PM Tools**
 
-<br/>  
+Git • GitHub • GitLab • Jira • Confluence • Notion
+Agile / Scrum workflows
 
-<div>  
+---
 
-<br/>  
+# 🏛 Vision
 
+Through **Ravenyx**, my mission is to architect and deliver **high-impact digital platforms** that merge technical precision with real-world usability.
+I focus on building systems that are:
 
-<br />
+* **Elegant in structure**
+* **Predictable in scale**
+* **Intuitive in use**
+* **Secure by default**
+* **Engineered for long-term growth**
 
-----
+---
+
+# 🌐 Connect
+
+If your interests intersect with **architecture, technology, digital psychology, cognitive systems, product design, or software strategy**, feel free to reach out.
+
+---
+
+# ☕ Support My Work
+
+<p align="center">
+  <a href="https://paypal.me/LoretaKrasteva"><img src="https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal"></a>
+  <a href="https://www.buymeacoffee.com/lucky.lore"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-orange?style=for-the-badge&logo=buymeacoffee"></a>
+</p>
