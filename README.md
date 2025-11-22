@@ -15,7 +15,7 @@
 
 # 🫡 Profile Summary
 
-I am the **Founder & CEO of Ravenyx**, a software innovation studio specializing in **architecture-first engineering**, scalable platform ecosystems, and secure modern web technologies.
+I am the **Founder & CEO of Ravenyx**, a software innovation company specializing in **architecture-first engineering**, scalable platform ecosystems, and secure modern web technologies.
 
 As the **sole developer behind Psychology 101 - Bulgaria’s largest psychology platform**, I design and operate production-grade systems with strong emphasis on:
 
