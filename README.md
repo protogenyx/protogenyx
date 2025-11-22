@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&duration=2500&pause=900&color=4BB4F8&vCenter=true&width=850&lines=Loretta+Krasteva+-+Founder+%26+CEO+of+Ravenyx;Full-Stack+Engineer+%7C+Systems+Architect;Creator+of+Psychology+101+(BG);Building+Scalable+%26+Secure+Digital+Ecosystems">
+# <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&duration=2500&pause=900&color=4BB4F8&vCenter=true&width=850&lines=Loretta+Krasteva+-+Founder+%26+CEO+of+Ravenyx;Full-Stack+Engineer+%7C+Systems+Architect;Creator+of+Psychology+101;Building+Scalable+%26+Secure+Digital+Ecosystems">
 
 <p align="center">
   <a href="https://github.com/protogenyx"><img src="https://img.shields.io/badge/GitHub-23292e?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -17,7 +17,7 @@
 
 I am the **Founder & CEO of Ravenyx**, a software innovation studio specializing in **architecture-first engineering**, scalable platform ecosystems, and secure modern web technologies.
 
-As the **sole developer behind Psychology 101 — Bulgaria’s largest psychology platform**, I design and operate production-grade systems with strong emphasis on:
+As the **sole developer behind Psychology 101 - Bulgaria’s largest psychology platform**, I design and operate production-grade systems with strong emphasis on:
 
 * **High performance and low-latency interfaces**
 * **Secure, scalable, modular architectures**
@@ -175,7 +175,7 @@ My long-term architectural focus is on systems that are:
 # 🌐 Connect
 
 If your interests intersect with:
-**architecture, platform engineering, digital psychology, product systems, human-centered design, developer tooling, or cognitive technologies** — let’s talk.
+**architecture, platform engineering, digital psychology, product systems, human-centered design, developer tooling, or cognitive technologies** - let’s talk.
 
 ---
 
