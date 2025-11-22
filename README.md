@@ -185,6 +185,3 @@ If your interests intersect with:
   <a href="https://paypal.me/LoretaKrasteva"><img src="https://img.shields.io/badge/Donate-PayPal-0070ba?style=for-the-badge&logo=paypal&logoColor=white"></a>
   <a href="https://www.buymeacoffee.com/lucky.lore"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"></a>
 </p>
-
-
-Just tell me the style you want next.
