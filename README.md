@@ -176,12 +176,3 @@ My long-term architectural focus is on systems that are:
 
 If your interests intersect with:
 **architecture, platform engineering, digital psychology, product systems, human-centered design, developer tooling, or cognitive technologies** - let’s talk.
-
----
-
-# ☕ Support My Work
-
-<p align="center">
-  <a href="https://paypal.me/LoretaKrasteva"><img src="https://img.shields.io/badge/Donate-PayPal-0070ba?style=for-the-badge&logo=paypal&logoColor=white"></a>
-  <a href="https://www.buymeacoffee.com/lucky.lore"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"></a>
-</p>
